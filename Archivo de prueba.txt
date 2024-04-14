@@ -1,0 +1,1 @@
+Este archivo es solo una prueba para poder hacer el commit requerido en la Actividad 3.7.1 mientras practico el flujo de trabajo básico de Git.
